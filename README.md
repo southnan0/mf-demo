@@ -12,4 +12,8 @@
     |--index.html // 使用该项目暴露的组件的文件，需要放在服务器下
 ```
 
-dev: yarn dev
+dev：
+```
+yarn dev
+```
+将test/index.html放在某个服务器下（不能直接双击打开）
